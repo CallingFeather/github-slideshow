@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Sora is so brave, hiding behind a plant
 Use the left arrow to go back!
